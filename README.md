@@ -56,7 +56,4 @@ You can return the answer in any order.
 - `TwoSum.cpp` (C++ implementation)
 - `TestTwoSum.java` (Test cases for Java)
 
-## Repository Structure
-
-The repository is structured as follows:
 
